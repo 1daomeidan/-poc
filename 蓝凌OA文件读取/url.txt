@@ -1,0 +1,6 @@
+http://cyy.landray.com.cn:8088/login.jsp
+http://58.250.250.125:8084/login.jsp
+http://219.134.186.46:8088/login.jsp
+http://219.134.186.46:8088/login.jsp
+http://sapdemo.myekp.com:8084/resource/anonym.jsp
+https://ekpdemo.landray.com.cn/login.jsp
